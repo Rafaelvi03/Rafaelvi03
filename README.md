@@ -5,7 +5,8 @@
 <h3 align="center">Soy un Desarrollado Web, apasionado del continuo cambio de la tecnología.
   
  Mi objetivo es aplicar los conocimientos, habilidades , capacidades adquiridas como Desarrollador con el fin de obtener resultados óptimos que mejoren aspectos laborales y en mi entorno.
- Mas front que Back <3 </h3>
+ 
+  Siempre hay algo que mejorar <3 </h3>
 <div align=center >
   
 <h3 align="left">Mis redes 🔥:</h3>
