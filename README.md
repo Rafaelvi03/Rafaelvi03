@@ -32,6 +32,5 @@
   
   [![GitHub Streak](https://streak-stats.demolab.com?user=Rafaelvi03&theme=dark&hide_border=true&border_radius=6&locale=es&mode=weekly)](https://git.io/streak-stats)
   
-  ![](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
  </div>
 
