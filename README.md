@@ -2,11 +2,10 @@
   <img src="https://media.giphy.com/media/n5Zey0rk2AduKpwpTT/giphy.gif" width= "200" />
   </div>
 <h1 align="center">Rafael Villaseñor ! 🖥👋</h1>
-<h4 align="center">Soy un Desarrollado Web, apasionado del continuo cambio de la tecnología.
+<h2 align="center">Soy un Desarrollado Web, apasionado del continuo cambio de la tecnología.
   
  Mi objetivo es aplicar los conocimientos, habilidades , capacidades adquiridas como Desarrollador con el fin de obtener resultados óptimos que mejoren aspectos laborales y en mi entorno.
- 
-  Mas Frontend que Backend <3</h4>
+ </h2>
 <div align=center >
   
 <h3 align="left">Mis redes 🔥:</h3>
