@@ -24,11 +24,14 @@
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
   </p>
   
+  
   Mi estatus 🖥: 
   
   
   
   
   [![GitHub Streak](https://streak-stats.demolab.com?user=Rafaelvi03&theme=dark&hide_border=true&border_radius=6&locale=es&mode=weekly)](https://git.io/streak-stats)
+  
+  ![](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
  </div>
 
